@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# input dir
+input/
+
+# output dir
+output/
+
+# wandb
+main/wandb/
