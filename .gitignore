@@ -136,3 +136,6 @@ output/
 
 # wandb
 main/wandb/
+
+# vscode
+.vscode
