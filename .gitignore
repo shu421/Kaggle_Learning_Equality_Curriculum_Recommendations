@@ -139,3 +139,7 @@ main/wandb/
 
 # vscode
 .vscode
+
+# my utils
+kaggle_utils/
+kaggle_nlp_utils/
