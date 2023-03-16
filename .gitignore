@@ -141,5 +141,7 @@ main/wandb/
 .vscode
 
 # my utils
-kaggle_utils/
-kaggle_nlp_utils/
+kagglib
+
+# dev container
+tmp/
